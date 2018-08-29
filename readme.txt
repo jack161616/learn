@@ -9,5 +9,4 @@ git eight.
 git nine.
 git reset. 
 git branch dev.
-branch master.
-
+branch new master.
