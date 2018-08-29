@@ -10,3 +10,4 @@ git nine.
 git reset. 
 git branch dev.
 add branch new.
+add branch new dev.
