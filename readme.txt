@@ -11,3 +11,6 @@ git reset.
 git branch dev.
 add branch new.
 add branch new dev.
+add branch dev2.
+branch dra...........
+wo shengqi le 
