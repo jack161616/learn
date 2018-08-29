@@ -4,3 +4,4 @@ git is clear.
 git is bangbang.
 git is br.
 git is Gpl.
+git is seven.
