@@ -18,3 +18,4 @@ if no commit then checkout master,then it will merge.
 try git stash...
 
 try push master ----8.30
+branch new master.
